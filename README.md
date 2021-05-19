@@ -1,3 +1,7 @@
+## lazy-singletons-demo
+Answer of the Stackoverflow question: https://stackoverflow.com/questions/67006908/how-to-refactor-by-eliminating-double-await-and-the-dry-code
+
+
 ## Setup
 
 - `npm i -g node-static`
